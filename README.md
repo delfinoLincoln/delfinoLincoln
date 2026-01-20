@@ -1,14 +1,12 @@
-# Oi! Eu me chamo Link 👋
+# Olá! Me chamo Lincoln Delfino 👋
 
-Sou desenvolvedor iniciante e estou estudando **C**, **Java**, **HTML** e **CSS**.  
-Gosto de criar projetos práticos e aprender tecnologias novas.
+Sou desenvolvedor iniciante e tenho breve conhecimento em **C**, **Java**, **HTML**, **CSS**, etc.  
 
 ---
 
-## 💼 Onde estou estudando/trabalhando
-🎓 Estudante de **Informática**  
-📍 IFPR – Campus Paranaguá  
-📅 2025 – 2026  
+ Estudante de **Informática**  
+ IFPR – Campus Paranaguá  
+ INFO25 - 2/4.  
 
 ---
 

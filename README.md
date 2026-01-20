@@ -6,9 +6,9 @@ Gosto de criar projetos práticos e aprender tecnologias novas.
 ---
 
 ## 💼 Onde estou estudando/trabalhando
-🎓 Estudante de **Desenvolvimento de Sistemas**  
+🎓 Estudante de **Informática**  
 📍 IFPR – Campus Paranaguá  
-📅 2024 – 2026  
+📅 2025 – 2026  
 
 ---
 

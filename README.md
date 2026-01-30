@@ -1,6 +1,6 @@
-# Olá! Me chamo Lincoln Delfino 👋
+# Olá! Me chamo Lincoln Delfino 
 
-Sou desenvolvedor iniciante e tenho breve conhecimento em **C**, **Java**, **HTML**, **CSS**, etc.  
+Sou desenvolvedor iniciante e tenho breve conhecimento em linguagens backend e frontend.  
 
 ---
 

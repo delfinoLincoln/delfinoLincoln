@@ -10,7 +10,7 @@ Sou desenvolvedor iniciante e tenho breve conhecimento em linguagens backend e f
 
 ---
 
-## 🧠 Linguagens e Tecnologias
+## Linguagens
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
@@ -22,7 +22,7 @@ Sou desenvolvedor iniciante e tenho breve conhecimento em linguagens backend e f
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## BANCO DE DADOS
+## Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![H2 Database](https://img.shields.io/badge/H2-003B57?style=for-the-badge&logo=h2&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)

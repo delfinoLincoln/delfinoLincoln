@@ -266,13 +266,13 @@ SYSTEM MESSAGE: progresso contínuo detectado...
 
 <img
   height="175"
-  src="https://github-readme-stats.vercel.app/api?username=delfinoLincoln&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=00E5FF&locale=pt-br"
+  src="https://github-readme-stats.vercel.app/api?username=delfinoLincoln&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=00E5FF&locale=pt-br&cache_seconds=1800"
   alt="Estatísticas do GitHub"
 />
 
 <img
   height="175"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=delfinoLincoln&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=C9D1D9&locale=pt-br"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=delfinoLincoln&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=C9D1D9&locale=pt-br&cache_seconds=1800"
   alt="Linguagens mais utilizadas"
 />
 
@@ -310,9 +310,11 @@ SYSTEM MESSAGE: progresso contínuo detectado...
 
 <img
   width="95%"
-  src="https://github-profile-trophy.vercel.app/?username=delfinoLincoln&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
+  src="https://github-profile-trophies.vercel.app/?username=delfinoLincoln&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
   alt="GitHub Trophies"
 />
+
+</div>
 
 </div>
 

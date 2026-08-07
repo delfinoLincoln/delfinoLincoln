@@ -266,13 +266,13 @@ SYSTEM MESSAGE: progresso contínuo detectado...
 
 <img
   height="175"
-  src="https://github-readme-stats.vercel.app/api?username=delfinoLincoln&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=00E5FF&locale=pt-br&cache_seconds=1800"
+  src="https://github-readme-stats.vercel.app/api?username=delfinoLincoln&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=00E5FF&locale=pt-br&v=2"
   alt="Estatísticas do GitHub"
 />
 
 <img
   height="175"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=delfinoLincoln&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=C9D1D9&locale=pt-br&cache_seconds=1800"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=delfinoLincoln&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=C9D1D9&locale=pt-br&v=2"
   alt="Linguagens mais utilizadas"
 />
 
@@ -280,7 +280,7 @@ SYSTEM MESSAGE: progresso contínuo detectado...
 
 <img
   width="75%"
-  src="https://streak-stats.demolab.com?user=delfinoLincoln&theme=transparent&hide_border=true&background=020617&ring=00E5FF&fire=FF2D95&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF&locale=pt_BR"
+  src="https://streak-stats.demolab.com?user=delfinoLincoln&theme=transparent&hide_border=true&background=020617&ring=00E5FF&fire=FF2D95&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF&locale=pt_BR&v=2"
   alt="GitHub Streak"
 />
 
@@ -310,11 +310,9 @@ SYSTEM MESSAGE: progresso contínuo detectado...
 
 <img
   width="95%"
-  src="https://github-profile-trophies.vercel.app/?username=delfinoLincoln&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
+  src="https://github-profile-trophies.vercel.app/?username=delfinoLincoln&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&v=2"
   alt="GitHub Trophies"
 />
-
-</div>
 
 </div>
 
